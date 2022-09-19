@@ -13,7 +13,7 @@
       "defaultvalue": {}
     }
   },
-  "variabls": {},
+  "variables": {},
   "resources": [
     {
       "type": "Microsoft.Resources/ResourceGroups",
